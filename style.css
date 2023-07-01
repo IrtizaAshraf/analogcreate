@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    padding-top: 100px;
+    text-align: center;
+    font-size: x-large;
+
+}
+.main2{
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+background-attachment: fixed;
+background-color: #07040a;
+
+
+}
+.ali{
+    text-align: center;
+    margin-top: -120px;
+    padding: 180px;
+}
+ul{
+    list-style: square;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+li{
+    display: inline;
+    color: white;
+    margin-left: 10px;
+
+}
+li:hover{
+color: brown;
+cursor: pointer;
+text-decoration: underline;
+}
+.go{
+    padding: 40px;
+    margin: 20px;
+    text-decoration: underline;
+
+}
+.do{
+    padding-left: 400px;
+}
+.tog{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    
+}
+.fog{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+.ro{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+.main4{
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+background-attachment: fixed;
+background-color: #07040a;   
+}
+.main5{
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+background-attachment: fixed;
+background-color: #07040a;
+}
